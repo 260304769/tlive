@@ -1,160 +1,244 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width">
-    <link rel="shortcut icon" href="favicon.ico">
-    <link crossorigin="anonymous" media="all" rel="stylesheet" href="css/light.css">
-    <link crossorigin="anonymous" media="all" rel="stylesheet" href="css/primer.css">
-</head>
-<body>
-    <h1>各种AI、电视伴侣、流媒体账号，家庭影音设备推荐：<a href="https://nfvideo.cc">点击上车</a></h1>
-    <h1>各种流媒体账号合租，ChatGPT、绘图AI：<a href="https://universalbus.cc">点击上车</a></h1>
-    <h4 dir="auto"><a id="user-content-ftindy" class="anchor" aria-hidden="true" href="#ftindy">
-            <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16"
-                 aria-hidden="true">
-                <path fill-rule="evenodd"
-                      d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path>
-            </svg>
-        </a>Ftindy精选
-        </h4>
-        <p dir="auto"><code>https://live.freetv.top/huyayqk.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;虎牙一起看</p>
-        <p dir="auto"><code>https://live.freetv.top/douyuyqk.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;斗鱼一起看</p>
-        <p dir="auto"><code>https://live.freetv.top/yylunbo.m3u?url=https://lunbo.freetv.top</code>&nbsp;&nbsp;&nbsp;&nbsp;YY轮播
-        </p>
-        <p dir="auto"><code>https://www.goodiptv.club/bililive.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;BiliBili直播
-        </p>
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/SXYD.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;精选IPV6源
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;BESTV源
-        </p>
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/sxg.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;SXG源
-        </p>
-<!--       <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/ghyx.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;GHYX源
-        </p>
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;CQYX源
-        </p> -->
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/yqgd.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;YQGD源
-        </p>
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;4K/8K源
-        </p>
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/msp.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;MSP源
-        </p>
-        
-<h4 dir="auto"><a id="user-content-BigBigGrandG" class="anchor" aria-hidden="true" href="#BigBigGrandG">
-            <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16"
-                 aria-hidden="true">
-                <path fill-rule="evenodd"
-                      d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path>
-            </svg>
-        </a>BigBigGrandG
-        </h4>
-        <p dir="auto"><code>https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/release/Gather.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;BigBigGrandG源</p>
-        </h4>
-        </a>
-        <h4 dir="auto"><a id="user-content-aptv" class="anchor" aria-hidden="true" href="#aptv">
-            <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16"
-                 aria-hidden="true">
-                <path fill-rule="evenodd"
-                      d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path>
-            </svg>
-        </a>APTV
-        </h4>
-        <p dir="auto">
-            <code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;APTV
-            IPv6</p>
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/aptv-playback.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;APTV
-            回放测试源</p>
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/ya.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;APTV 
-            虎牙</p>
-        <h4 dir="auto"><a id="user-content-yang" class="anchor" aria-hidden="true" href="#yang">
-            <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16"
-                 aria-hidden="true">
-                <path fill-rule="evenodd"
-                      d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path>
-            </svg>
-        </a>YanG
-        </h4>
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;YanG
-            Gather</p>
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/yu.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;YanG
-            斗鱼</p>
-    <h4 dir="auto"><a id="user-content-Meroser" class="anchor" aria-hidden="true" href="#Meroser">
-            <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16"
-                 aria-hidden="true">
-                <path fill-rule="evenodd"
-                      d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path>
-            </svg>
-        </a>Meroser
-        </h4>
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;Meroser精选IPV6源</p>
-    <h4 dir="auto"><a id="user-content-yuechan" class="anchor" aria-hidden="true" href="#yuechan">
-            <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16"
-                 aria-hidden="true">
-                <path fill-rule="evenodd"
-                      d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path>
-            </svg>
-        </a>YueChan
-        </h4>
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;YueChan
-            IPv6</p>
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/Radio.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;YueChan
-            Radio</p> 
-        <h4 dir="auto"><a id="user-content-whpsky" class="anchor" aria-hidden="true" href="#whpsky">
-            <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16"
-                 aria-hidden="true">
-                <path fill-rule="evenodd"
-                      d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path>
-            </svg>
-        </a>whpsky
-        </h4>
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/IPTV-IPV6.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;whpsky-IPV6
-        </p>
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;whpsky-ChinaTVM3u
-        </p>
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.txt</code>&nbsp;&nbsp;&nbsp;&nbsp;whpsky-ChinaTVTxt
-        </p>
-        <h4 dir="auto"><a id="user-content-zbefine" class="anchor" aria-hidden="true" href="#zbefine">
-            <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16"
-                 aria-hidden="true">
-                <path fill-rule="evenodd"
-                      d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path>
-            </svg>
-        </a>zbefine
-        </h4>
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;zbefine-m3u
-        </p>
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/zbefine/iptv/main/iptv.txt</code>&nbsp;&nbsp;&nbsp;&nbsp;zbefine-txt
-        </p>
-        <h4 dir="auto"><a id="user-content-其他大神" class="anchor" aria-hidden="true" href="#其他大神">
-            <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16"
-                 aria-hidden="true">
-                <path fill-rule="evenodd"
-                      d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path>
-            </svg>
-        </a>其他大神
-        </h4>
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/vamoschuck/TV/main/M3U</code>&nbsp;&nbsp;&nbsp;&nbsp;茶客
-        </p>
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuyun999/wuyun/main/zb/aptv.txt</code>&nbsp;&nbsp;&nbsp;&nbsp;乌云
-        </p>
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/hussobaba/AILE-Tv/main/TEBER_TV.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;AILE-TV
-        </p>
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/goolguy007/radioer/main/TVradio</code>&nbsp;&nbsp;&nbsp;&nbsp;TVradio
-        </p>
-        <p dir="auto"><code>https://epg.pw/test_channels.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;epg.pw 中国地区可观看</p>
-        <p dir="auto"><code>https://epg.pw/test_channels_banned_cn.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;epg.pw 海外地区可观看</p>
-        <p dir="auto"><code>https://epg.pw/test_channels_unknown.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;epg.pw 未添加EPG的大杂烩直播源</p>
-         <p dir="auto"><code>https://epg.pw/test_channel_page.html?lang=zh-hant</code>&nbsp;&nbsp;&nbsp;&nbsp;epg.pw 直播源按分类列表</p>
-        <h4 dir="auto"><a id="user-content-epg-节目单" class="anchor" aria-hidden="true" href="#epg-节目单"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>EPG 节目单</h4>
-        <p dir="auto"><code>https://epg.112114.xyz/pp.xml</code></p>
-        <p dir="auto"><code>http://epg.51zmt.top:8000/e.xml</code></p>
-        <p dir="auto"><code>http://epg.aptvapp.com/xml</code></p>
-        <p dir="auto"><code>https://epg.pw/xmltv.html?lang=zh-hant</code></p>
-        <h4 dir="auto"><a id="user-content-备注" class="anchor" aria-hidden="true" href="#备注"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>备注</h4>
-        <p dir="auto">请挂好 <strong>代理</strong> 再添加订阅，否则可能出现 <strong>解析错误</strong></p>
-        <p dir="auto"><strong>播放没有画面</strong> 时，请检查自己的网络是否支持 <strong><a href="https://test-ipv6.com/" style="color: blue;text-decoration: underline">IPV6</a></strong></p>
-        <p dir="auto"><strong style="color:red">多说一句，转发本项目直播源的时候，注明一下出处，别做那些偷偷摸摸的鼠辈之事</strong></p>
-    </article>
-</div>
-</body>
-</html> 
+# 使用Replit部署LiveRedirect项目
+
+PHP地址：https://php.61073736.repl.co/***.php?id={channel}
+
+Golang地址：https://golang.61073736.repl.co/***/{channel}
+
+例如：https://golang.61073736.repl.co/huya/23865142
+
+# clash订阅链接：
+
+项目地址：https://github.com/aiboboxx/clashfree
+
+https://ghproxy.com/https://raw.githubusercontent.com/aiboboxx/clashfree/main/clash.yml
+
+# TVBox、tivimate、ZYPlayer等自用源以及仓库源、直播源等
+TVBox、tivimate等自用源以及仓库源、直播源等
+以下为国内可打开缓存地址：
+
+https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/tvbox/main/自用单仓
+
+https://raw.iqiq.io/mengzehe/tvbox/main/自用单仓
+
+TVBOX接口在线解密：https://www.lige.fit/ua
+
+TVBox 配置文件。所有资源均来自于各路大神无私分享，如有侵权，请联系删除。
+
+# 配置说明：
+
+（1）cangku.json 网络收集的多人配置文件；
+
+（2）duocang.json 网络收集的多人仓库配置文件；
+
+（3）live-qingtian.txt 网络收集 晴天 电视直播源；
+
+（4）live.m3u 网络收集的 tivimata 软件电视直播源；
+
+（5）live.txt 网络收集的用于 TVbox 软件的电视直播源；
+
+（6）livecangku.json 网络收集的用于 TVbox 软件的电视直播源汇总；
+
+（7）luxian.json 网络收集的单人配置文件；
+
+（8）zyplayer.json 网络收集的用于 ZYPlayer PC端的配置文件。
+
+
+# 1、给英文不好的朋友
+
+GitHub 中文化插件 🔰https://greasyfork.org/zh-CN/scripts/435208
+
+Github 增强-高速下载 🔰https://greasyfork.org/zh-CN/scripts/412245
+
+# 2、Github RAW 加速服务
+
+源码 https://gitcdn.top/https://github.com/用户名/仓库名/raw/main/接口文件
+
+香港 https://raw.iqiq.io/用户名/仓库名/main/接口文件
+
+新加坡 https://raw.kgithub.com/用户名/仓库名/main/接口文件
+
+日本
+
+https://fastly.jsdelivr.net/gh/用户名/仓库名@main/接口文件
+
+https://cdn.staticaly.com/gh/用户名/仓库名/main/接口文件
+
+https://raw.fastgit.org/用户名/仓库名/main/接口文件
+
+韩国
+
+https://ghproxy.com/https://raw.githubusercontent.com/用户名/仓库名/main/接口文件
+
+https://ghproxy.net/https://raw.githubusercontent.com/用户名/仓库名/main/接口文件
+
+https://gcore.jsdelivr.net/gh/用户名/仓库名@main/接口文件
+
+https://raw.githubusercontents.com/用户名/仓库名/main/接口文件
+
+# 3，Github 静态加速
+
+https://cdn.staticaly.com/gh/用户名/仓库名/main/接口文件
+
+https://cdn.jsdelivr.net/gh/用户名/仓库名@main/接口文件
+
+https://purge.jsdelivr.net/gh/用户名/仓库名@main/接口文件
+
+# 4、EGP源
+
+http://epg.51zmt.top:8000/e.xml
+
+https://epg.112114.xyz/pp.xml
+
+以下为地址
+
+epg-DIYP接口1：(hhttp://epg.51zmt.top:8000/api/diyp/)
+
+epg-DIYP接口2：(http://diyp.112114.xyz/)
+
+epg-DIYP接口3：(https://epg.hicloud.co/epg.php/)
+
+epg1：(https://epg.sec.st/epg.php/)
+
+epg3：(https://epg.pm/)
+
+epg4：(http://n33426t756.wicp.vip/diyp/epg.php/)
+
+epg5：(http://www.diyp.top/diyp/epg.php/)
+
+总epg：(http://epg.51zmt.top:8000/e.xml/)
+
+央视及各省卫视epg：(http://epg.51zmt.top:8000/cc.xml/)
+
+地方及数字付费epg：(http://epg.51zmt.top:8000/difang.xml/)
+
+港澳台及海外epg：(http://epg.51zmt.top:8000/gat.xml/)
+
+epg6：(http://124.223.212.38:83/)
+
+epg7：(https://epg.112114.xyz/)
+
+超级直播
+
+Xml格式
+
+Xml格式
+
+# 5、开源仓库
+
+https://github.com/
+
+https://gitlab.com/
+
+https://gitee.com/
+
+https://coding.net/
+
+https://gitcode.net/
+
+https://gitea.com/ 仓库名是 mao,tvbox,box,tv等类似的，有几率出现 1.删除仓库 2.删除用户 3.封禁账户 4.黑名单
+
+https://agit.ai/
+
+https://notabug.org/
+
+# 6、短地址平台
+
+（1）https://short.io
+
+（2）http://88d.cn
+
+（3）https://77url.com
+
+（4）https://suowo.cn
+
+（5）https://6du.in
+
+（6）https://www.urlc.cn
+
+（7）https://59z.cn
+
+（8）https://suowo.cn
+
+（9）https://0a.fit/
+
+（10）https://www.urlc.cn/
+
+# 7、TVBox各路大佬配置（排名不分先后）：
+
+（1）唐三：https://hutool.ml/tang
+
+（2）Fongmi：https://raw.fastgit.org/FongMi/CatVodSpider/main/json/config.json
+
+（3）俊于：http://home.jundie.top:81/top98.json
+
+（4）饭太硬：http://饭太硬.ga/x/o.json
+
+（5）霜辉月明py：https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json
+
+（6）小雅dr：http://drpy.site/js1
+
+（7）菜妮丝：https://tvbox.cainisi.cf
+
+（8）神器：https://神器每日推送.tk/pz.json
+
+（9）巧技：http://pandown.pro/tvbox/tvbox.json
+
+（10）刚刚：http://刚刚.live/猫
+
+（11）吾爱有三：http://52bsj.vip:98/0805
+
+（12）潇洒：https://download.kstore.space/download/2863/01.txt
+
+（13）佰欣园：https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt
+
+（14）胖虎：https://notabug.org/imbig66/tv-spider-man/raw/master/配置/0801.json
+
+（15）云星日记：https://maoyingshi.cc/tiaoshizhushou/1.txt
+
+（16）Yoursmile7：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
+
+（17）BOX：http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0
+
+（18）哔哩学习：http://52bsj.vip:81/api/v3/file/get/41063/bili.json?sign=TxuApYZt6bNl9TzI7vObItW34UnATQ4RQxABAEwHst4%3D%3A0
+
+（19）UndCover：https://raw.githubusercontent.com/UndCover/PyramidStore/main/py.json
+
+（20）木极：https://pan.tenire.com/down.php/2664dabf44e1b55919f481903a178cba.txt
+
+（21）Ray：https://dxawi.github.io/0/0.json
+
+（22）甜蜜：https://kebedd69.github.io/TVbox-interface/py甜蜜.json
+
+（23）52bsj：http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0
+
+（24）肥猫：http://我不是.肥猫.love:63
+
+# 8、随机轮换壁纸：
+
+（1）https://bing.img.run/rand.php
+
+（2）http://www.kf666888.cn/api/tvbox/img
+
+（3）https://picsum.photos/1280/720/?blur=10
+
+（4）http://刚刚.live/图
+
+（5）http://饭太硬.ga/深色壁纸/api.php
+
+（6）https://www.dmoe.cc/random.php
+
+（7）https://api.btstu.cn/sjbz/zsy.php
+
+（8）https://api.btstu.cn/sjbz/?lx=dongman
+
+（9）http://api.btstu.cn/sjbz/?lx=meizi
+
+（10）http://api.btstu.cn/sjbz/?lx=suiji
+
+（11）https://pictures.catvod.eu.org/
+
+# 9、工具
+
+（1）文本处理： http://www.txttool.com/
+
+本页面只是收集Box，自用请勿宣传。
